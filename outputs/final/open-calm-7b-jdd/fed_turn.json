@@ -1,0 +1,114 @@
+{
+  "Interesting": {
+    "pearson": {
+      "coefficient": 0.058237747300605304,
+      "p-value": 0.2606063499871021
+    },
+    "spearman": {
+      "coefficient": 0.051866805812289675,
+      "p-value": 0.31647999580266256
+    },
+    "kendalltau": {
+      "coefficient": 0.0369009686786002,
+      "p-value": 0.31371861976126625
+    }
+  },
+  "Engaging": {
+    "pearson": {
+      "coefficient": 0.0760278307745508,
+      "p-value": 0.14170127418451564
+    },
+    "spearman": {
+      "coefficient": 0.028198027833298372,
+      "p-value": 0.5862090799760897
+    },
+    "kendalltau": {
+      "coefficient": 0.0189817097047648,
+      "p-value": 0.6081588115327219
+    }
+  },
+  "Understandable": {
+    "pearson": {
+      "coefficient": 0.07086483166971676,
+      "p-value": 0.1708641527518945
+    },
+    "spearman": {
+      "coefficient": 0.08575342632579129,
+      "p-value": 0.09729331957861177
+    },
+    "kendalltau": {
+      "coefficient": 0.06871852622532515,
+      "p-value": 0.09858681756934487
+    }
+  },
+  "Relevant": {
+    "pearson": {
+      "coefficient": 0.024865490206505594,
+      "p-value": 0.631238171610446
+    },
+    "spearman": {
+      "coefficient": 0.030891812858958853,
+      "p-value": 0.5509330136616224
+    },
+    "kendalltau": {
+      "coefficient": 0.023504983475327534,
+      "p-value": 0.5379831225597231
+    }
+  },
+  "Specific": {
+    "pearson": {
+      "coefficient": 0.01381378002165818,
+      "p-value": 0.7897599255590423
+    },
+    "spearman": {
+      "coefficient": -0.031410155754569874,
+      "p-value": 0.5442663931539531
+    },
+    "kendalltau": {
+      "coefficient": -0.019906218632995472,
+      "p-value": 0.5904440020307644
+    }
+  },
+  "Correct": {
+    "pearson": {
+      "coefficient": 0.03089701231179989,
+      "p-value": 0.550865943231907
+    },
+    "spearman": {
+      "coefficient": 0.006515069141842389,
+      "p-value": 0.8999346397327062
+    },
+    "kendalltau": {
+      "coefficient": 0.005661717987995958,
+      "p-value": 0.8809269050581524
+    }
+  },
+  "Semantically appropriate": {
+    "pearson": {
+      "coefficient": 0.008762154351507597,
+      "p-value": 0.8657060513668047
+    },
+    "spearman": {
+      "coefficient": -0.0428970041685707,
+      "p-value": 0.40749778711419826
+    },
+    "kendalltau": {
+      "coefficient": -0.029729636449410346,
+      "p-value": 0.4398818512561329
+    }
+  },
+  "Fluent": {
+    "pearson": {
+      "coefficient": 0.02162867670097365,
+      "p-value": 0.676321430790181
+    },
+    "spearman": {
+      "coefficient": 0.0008758466005617505,
+      "p-value": 0.9865131401379112
+    },
+    "kendalltau": {
+      "coefficient": 0.0014386218322177226,
+      "p-value": 0.9705165001923924
+    }
+  }
+}

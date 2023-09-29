@@ -1,0 +1,142 @@
+{
+  "Coherent": {
+    "pearson": {
+      "coefficient": 0.049006262779995126,
+      "p-value": 0.5873167482157637
+    },
+    "spearman": {
+      "coefficient": 0.08646357244358838,
+      "p-value": 0.337670868934145
+    },
+    "kendalltau": {
+      "coefficient": 0.0640468101135231,
+      "p-value": 0.3274766200473662
+    }
+  },
+  "Diverse": {
+    "pearson": {
+      "coefficient": 0.004620059277329401,
+      "p-value": 0.9592178095465888
+    },
+    "spearman": {
+      "coefficient": 0.11523668452057871,
+      "p-value": 0.20064727493928755
+    },
+    "kendalltau": {
+      "coefficient": 0.09210272471978073,
+      "p-value": 0.15495550531155697
+    }
+  },
+  "Flexible": {
+    "pearson": {
+      "coefficient": 0.05361054880889396,
+      "p-value": 0.5526527025049855
+    },
+    "spearman": {
+      "coefficient": 0.09791792451032928,
+      "p-value": 0.27731513176029604
+    },
+    "kendalltau": {
+      "coefficient": 0.07578347355827475,
+      "p-value": 0.24406014771354978
+    }
+  },
+  "Understanding": {
+    "pearson": {
+      "coefficient": -0.0020330065615473112,
+      "p-value": 0.9820480141563098
+    },
+    "spearman": {
+      "coefficient": 0.03251790776595273,
+      "p-value": 0.7188441064571023
+    },
+    "kendalltau": {
+      "coefficient": 0.027604451006055842,
+      "p-value": 0.6744575277922594
+    }
+  },
+  "Inquisitive": {
+    "pearson": {
+      "coefficient": 0.25602961372151234,
+      "p-value": 0.003952378452684377
+    },
+    "spearman": {
+      "coefficient": 0.24729099474163196,
+      "p-value": 0.005430184468133134
+    },
+    "kendalltau": {
+      "coefficient": 0.18406362535762033,
+      "p-value": 0.004533410400933386
+    }
+  },
+  "Consistent": {
+    "pearson": {
+      "coefficient": 0.11386130343896543,
+      "p-value": 0.20610974725400705
+    },
+    "spearman": {
+      "coefficient": 0.16120994747054765,
+      "p-value": 0.07248792464815891
+    },
+    "kendalltau": {
+      "coefficient": 0.12518215571020433,
+      "p-value": 0.07745827204441541
+    }
+  },
+  "Informative": {
+    "pearson": {
+      "coefficient": 0.06576240078095791,
+      "p-value": 0.46621654534694773
+    },
+    "spearman": {
+      "coefficient": 0.15194804833287454,
+      "p-value": 0.09072207818065836
+    },
+    "kendalltau": {
+      "coefficient": 0.10859344418397382,
+      "p-value": 0.0908503505760107
+    }
+  },
+  "Likeable": {
+    "pearson": {
+      "coefficient": 0.16854808215632452,
+      "p-value": 0.06025006414717524
+    },
+    "spearman": {
+      "coefficient": 0.18380337374392536,
+      "p-value": 0.04018379100147139
+    },
+    "kendalltau": {
+      "coefficient": 0.1309717322295252,
+      "p-value": 0.042796070816626355
+    }
+  },
+  "Depth": {
+    "pearson": {
+      "coefficient": 0.1252423513740152,
+      "p-value": 0.16402210612867782
+    },
+    "spearman": {
+      "coefficient": 0.20846994245881745,
+      "p-value": 0.019645843620990724
+    },
+    "kendalltau": {
+      "coefficient": 0.1557286008725547,
+      "p-value": 0.01453007402518961
+    }
+  },
+  "Error recovery": {
+    "pearson": {
+      "coefficient": 0.020350333493840363,
+      "p-value": 0.8217760847072754
+    },
+    "spearman": {
+      "coefficient": 0.05838216719872634,
+      "p-value": 0.5178087201550989
+    },
+    "kendalltau": {
+      "coefficient": 0.041106550261100064,
+      "p-value": 0.5168720093938173
+    }
+  }
+}
